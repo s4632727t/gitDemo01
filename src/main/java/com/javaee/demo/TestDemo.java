@@ -10,5 +10,6 @@ public class TestDemo {
         System.out.println("running777...");
         System.out.println("master test...");
         System.out.println("function-game-test...");
+        System.out.println("push test...");
     }
 }
